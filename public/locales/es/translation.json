@@ -7,9 +7,10 @@
     "contact": "Contacto"
   },
   "hero": {
-    "title": "Servicios Globales de Negocios y Aviación",
-    "subtitle": "Su socio de confianza en excelencia aeronáutica y soluciones comerciales globales.",
-    "cta": "Explore Nuestros Servicios"
+    "title": "Global Business and Aviation Services (GBAS) – Soluciones Innovadoras para el Futuro de la Aviación y los Negocios",
+    "subtitle": "En GBAS, nos especializamos en ofrecer soluciones integradas que mejoran la eficiencia y la experiencia del cliente para aerolíneas, aeropuertos, hoteles y otras instalaciones de servicios. Desde la gestión de recursos humanos hasta soluciones tecnológicas avanzadas como FinderJet, junto con servicios de consultoría y capacitación, estamos aquí para apoyar a nuestros socios en la consecución de la excelencia.\n\n¡Construyamos una asociación que lleve su negocio a nuevas alturas!",
+    "cta_services": "Descubra Nuestros Servicios",
+    "cta_contact": "Contáctenos"
   },
   "about": {
     "title": "Pioneros en Soluciones de Aviación y Negocios",
