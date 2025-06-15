@@ -1,0 +1,50 @@
+
+{
+  "header": {
+    "about": "About Us",
+    "services": "Our Services",
+    "finderjet": "FinderJet",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "Global Business and Aviation Services",
+    "subtitle": "Your trusted partner in aviation excellence and global business solutions.",
+    "cta": "Explore Our Services"
+  },
+  "about": {
+    "title": "Pioneering Aviation and Business Solutions",
+    "content": "Global Business and Aviation Services (GBAS) is a premier provider of comprehensive solutions tailored for the aviation industry and global businesses. With years of experience, we are committed to delivering excellence, innovation, and unmatched customer service."
+  },
+  "services": {
+    "title": "Our Services",
+    "flight_ops": {
+      "title": "Flight Operations",
+      "description": "Comprehensive flight planning, dispatch, and support services."
+    },
+    "consulting": {
+      "title": "Aviation Consulting",
+      "description": "Expert advice on aviation strategy, management, and compliance."
+    },
+    "charter": {
+      "title": "Aircraft Charter",
+      "description": "Private and business jet charter services tailored to your needs."
+    }
+  },
+  "finderjet": {
+    "title": "Introducing FinderJet",
+    "content": "FinderJet is our revolutionary platform for finding and booking private jets in real-time. Experience seamless travel with transparent pricing and a world-class fleet at your fingertips. Your next journey is just a click away."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Please fill out the form below.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Send Message",
+    "success": "Thank you! Your message has been sent.",
+    "error": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

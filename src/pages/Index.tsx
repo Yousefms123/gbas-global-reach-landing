@@ -1,12 +1,18 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+
+import Hero from "@/components/sections/Hero";
+import AboutUs from "@/components/sections/AboutUs";
+import Services from "@/components/sections/Services";
+import FinderJet from "@/components/sections/FinderJet";
+import ContactUs from "@/components/sections/ContactUs";
 
 const Index = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="text-4xl font-bold mb-4">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
+    <div>
+      <Hero />
+      <AboutUs />
+      <Services />
+      <FinderJet />
+      <ContactUs />
     </div>
   );
 };

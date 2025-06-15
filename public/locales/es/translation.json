@@ -1,0 +1,50 @@
+
+{
+  "header": {
+    "about": "Sobre Nosotros",
+    "services": "Nuestros Servicios",
+    "finderjet": "FinderJet",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Servicios Globales de Negocios y Aviación",
+    "subtitle": "Su socio de confianza en excelencia aeronáutica y soluciones comerciales globales.",
+    "cta": "Explore Nuestros Servicios"
+  },
+  "about": {
+    "title": "Pioneros en Soluciones de Aviación y Negocios",
+    "content": "Global Business and Aviation Services (GBAS) es un proveedor líder de soluciones integrales adaptadas a la industria de la aviación y los negocios globales. Con años de experiencia, estamos comprometidos con la excelencia, la innovación y un servicio al cliente inigualable."
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "flight_ops": {
+      "title": "Operaciones de Vuelo",
+      "description": "Servicios integrales de planificación, despacho y soporte de vuelos."
+    },
+    "consulting": {
+      "title": "Consultoría Aeronáutica",
+      "description": "Asesoramiento experto en estrategia, gestión y cumplimiento aeronáutico."
+    },
+    "charter": {
+      "title": "Chárter de Aeronaves",
+      "description": "Servicios de chárter de jets privados y de negocios adaptados a sus necesidades."
+    }
+  },
+  "finderjet": {
+    "title": "Presentamos FinderJet",
+    "content": "FinderJet es nuestra revolucionaria plataforma para encontrar y reservar jets privados en tiempo real. Experimente viajes sin interrupciones con precios transparentes y una flota de clase mundial a su alcance. Su próximo viaje está a solo un clic de distancia."
+  },
+  "contact": {
+    "title": "Póngase en Contacto",
+    "subtitle": "Nos encantaría saber de usted. Por favor, complete el siguiente formulario.",
+    "name": "Nombre",
+    "email": "Correo Electrónico",
+    "message": "Mensaje",
+    "submit": "Enviar Mensaje",
+    "success": "¡Gracias! Su mensaje ha sido enviado.",
+    "error": "Algo salió mal. Por favor, inténtelo de nuevo."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  }
+}
