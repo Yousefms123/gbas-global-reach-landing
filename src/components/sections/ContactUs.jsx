@@ -19,12 +19,12 @@ const ContactUs = () => {
     message: z.string().min(10, { message: "Message must be at least 10 characters." }),
   });
 
-  const form = useForm<z.infer<typeof formSchema>>({
+  const form = useForm({
     resolver: zodResolver(formSchema),
     defaultValues: { name: "", email: "", message: "" },
   });
 
-  function onSubmit(values: z.infer<typeof formSchema>) {
+  function onSubmit(values) {
     console.log(values);
     sonnerToast.success(t('contact.success'));
     form.reset();

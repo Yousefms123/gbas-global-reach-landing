@@ -19,7 +19,7 @@ const languages = [
 const LanguageSwitcher = () => {
   const { i18n } = useTranslation();
 
-  const changeLanguage = (lng: string) => {
+  const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);
   };
 
